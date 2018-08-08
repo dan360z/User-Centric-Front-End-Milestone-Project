@@ -1,0 +1,225 @@
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #fff;
+    font-size: 1.25em;
+    background: url(../images/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/*---------------------------------------Colours*/
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+.over-lay {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.footer {
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+
+/*---------------------------------------Nav*/
+
+.icon {
+    height: 40px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #fff;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #834FCB;
+    -moz-transition: all 0.30s ease-in-out;
+    -webkit-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+}
+
+.navbar-dark .navbar-toggler {
+    border: none;
+}
+
+/*----------------------------------logo*/
+
+.logo {
+    width: 80%;
+    margin: 75px 0px;
+}
+
+
+/*----------------------------------Section row 1*/
+
+h2 {
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+.main-section {
+    padding: 15px;
+}
+
+.text {
+    font-size: 1.1em;
+}
+
+.main-image {
+    width: 95%;
+}
+
+.link {
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #834FCB;
+    font-weight: 700;
+    display: inline-block;
+    margin: 10px
+}
+
+.link:hover {
+    color: #50258b;
+    text-decoration: none;
+    -moz-transition: all 0.20s ease-in-out;
+    -webkit-transition: all 0.20s ease-in-out;
+    -o-transition: all 0.20s ease-in-out;
+}
+
+
+
+/*-----------------------------------section bottom row\*/
+
+.bottom-row {
+    border-top: 1px solid #fff;
+}
+
+.music-apps-container,
+.sign-up-container,
+.feature-container {
+    padding: 25px 0px;
+}
+
+h4 {
+    font-family: 'Gloria Hallelujah', cursive;
+    border-bottom: 1px solid #fff;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+
+/*--------------------Form*/
+
+.form-text {
+    margin: 50px 0;
+}
+
+.form-control {
+    margin: 35px 0;
+}
+
+.btn {
+    color: #fff;
+    background-color: #834FCB;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-weight: 700;
+}
+
+.btn:hover {
+    color: #fff;
+    background-color: #50258b;
+    -moz-transition: all 0.20s ease-in-out;
+    -webkit-transition: all 0.20s ease-in-out;
+    -o-transition: all 0.20s ease-in-out;
+}
+
+/*--------------------Video*/
+
+.video {
+    width: 100%;
+}
+
+.track-title {
+    margin: 5px 0;
+}
+
+/*--------------------Music-Apps*/
+
+.music-apps {
+    font-size: 80px;
+}
+
+.music-apps:hover {
+    text-shadow: 0px 0px 8px #fff;    
+}
+
+.fa-spotify {
+    color: #1ed760;
+}
+
+.fa-soundcloud {
+    color: #fe6200;
+}
+
+.fa-apple {
+    color: #fff;
+}
+
+/*--------------------Social-links Footer*/
+
+.list-inline {
+    line-height: 40px;
+    margin: 0px;
+}
+
+.list-inline i {
+    font-size: 22px;
+    margin: 0px 17px;
+}
+
+.social-links a {
+    color: #fff;
+}
+
+.social-links i:hover,
+.social-links a:hover {
+    color: #834FCB;
+    -moz-transition: all 0.30s ease-in-out;
+    -webkit-transition: all 0.30s ease-in-out;
+    -o-transition: all 0.30s ease-in-out;
+}
+
+
+/*-----------------------------------Media Queries*/
+
+@media (min-width: 992px) {
+
+    .navbar {
+        height: 45px;
+        padding: 0;
+    }
+
+    .icon {
+        margin-left: 20px;
+    }
+
+    .navbar-dark .navbar-nav .nav-link {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .logo {
+        width: 50%;
+    }
+
+    .main-image {
+        width: 50%;
+    }
+
+    .list-inline i {
+        margin: 0px 50px;
+    }
+
+}
