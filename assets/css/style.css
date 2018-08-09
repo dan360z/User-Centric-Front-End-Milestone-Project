@@ -73,6 +73,11 @@ h2 {
     width: 95%;
 }
 
+.dj-image {
+    width: 60%;
+    margin: 20px 0;
+}
+
 .link {
     font-family: 'Gloria Hallelujah', cursive;
     color: #834FCB;
