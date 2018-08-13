@@ -54,7 +54,7 @@ body {
 }
 
 
-/*----------------------------------Section row 1*/
+/*----------------------------------Section row main*/
 
 h2 {
     font-family: 'Gloria Hallelujah', cursive;
@@ -74,7 +74,7 @@ h2 {
 }
 
 .dj-image {
-    width: 60%;
+    width: 70%;
     margin: 20px 0;
 }
 
@@ -94,7 +94,51 @@ h2 {
     -o-transition: all 0.20s ease-in-out;
 }
 
+/*-----------------------------------section Listen\*/
 
+.heading-border {
+    border: 3px solid #fff;
+    padding: 9px;
+}
+
+.track-cover {
+    float: left;
+    width: 50%;
+    margin: 0px 10px 10px 10px;
+}
+
+.track-title-1 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin-top: 10px;
+    border: none;
+}
+
+.player {
+    margin: 0 10px;
+}
+
+.track-cover-opposite {
+    width: 50%;
+    margin: 0px 10px 10px 10px;
+    float: right;
+}
+
+.track-title-opposite {
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin-top: 10px;
+    border: none;
+    text-align: right;
+}
+
+.player-opposite {
+    margin: 0 10px;
+    float: right;
+}
+
+.video-2 {
+    width: 100%;
+    margin-bottom: 35px;
+}
 
 /*-----------------------------------section bottom row\*/
 
@@ -130,6 +174,7 @@ h4 {
     background-color: #834FCB;
     font-family: 'Gloria Hallelujah', cursive;
     font-weight: 700;
+    border: none;
 }
 
 .btn:hover {
@@ -157,7 +202,7 @@ h4 {
 }
 
 .music-apps:hover {
-    text-shadow: 0px 0px 8px #fff;    
+    text-shadow: 0px 0px 8px #fff;
 }
 
 .fa-spotify {
@@ -170,6 +215,12 @@ h4 {
 
 .fa-apple {
     color: #fff;
+}
+
+/*--------------------jumbotron*/
+
+.jumbotron {
+    background-color: #4e2a967a;
 }
 
 /*--------------------Social-links Footer*/
@@ -227,4 +278,17 @@ h4 {
         margin: 0px 50px;
     }
 
+    /*-----------------------------------Listen Float Effect*/
+    .track-cover-opposite {
+        float: left;
+    }
+
+    .track-title-opposite {
+        float: none;
+        text-align: left;
+    }
+
+    .player-opposite {
+        float: none;
+    }
 }
