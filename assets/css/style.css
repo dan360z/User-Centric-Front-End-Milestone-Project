@@ -141,8 +141,10 @@ h2,h1 {
 
 /*-----------------------------------section Book\*/
 
-.book-heading{
-    margin-bottom: 20px;
+.book-heading {
+    margin-bottom: 40px;
+    padding: 20px;
+    border: 3px solid #fff;
 }
 
 .form-section-heading {
