@@ -56,10 +56,9 @@ body {
 
 /*----------------------------------Section row main*/
 
-h2 {
+h2,h1 {
     font-family: 'Gloria Hallelujah', cursive;
 }
-
 
 .main-section {
     padding: 15px;
@@ -140,6 +139,16 @@ h2 {
     margin-bottom: 35px;
 }
 
+/*-----------------------------------section Book\*/
+
+.form-section-heading {
+    margin: 30px 0px;
+}
+
+.carousel-img {
+    width: 100%;
+}
+
 /*-----------------------------------section bottom row\*/
 
 .bottom-row {
@@ -165,7 +174,7 @@ h4 {
     margin: 50px 0;
 }
 
-.form-control {
+.mailing-list {
     margin: 35px 0;
 }
 
