@@ -46,6 +46,10 @@ body {
     border: none;
 }
 
+#current {
+    color: #834FCB;
+}
+
 /*----------------------------------header logo*/
 
 .logo {
