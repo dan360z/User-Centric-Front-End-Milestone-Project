@@ -61,8 +61,14 @@ body {
 /*----------------------------------Section row main*/
 
 h1,
-h2 {
+h2,
+h3{
     font-family: 'Gloria Hallelujah', cursive;
+}
+
+.heading-border {
+    border: 3px solid #fff;
+    padding: 9px;
 }
 
 .main-section {
@@ -99,11 +105,6 @@ h2 {
 }
 
 /*-----------------------------------section Listen\*/
-
-.heading-border {
-    border: 3px solid #fff;
-    padding: 9px;
-}
 
 .track-cover {
     float: left;
