@@ -84,9 +84,9 @@ In addition, if it is not obvious, you should also describe how to run your code
 Designed and Developed by Daniel Field.
 
 ### Content
-- The text for the home page was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
-- The text for the guys page Alex pall section was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
-- The text for the guys page Drew Taggart section was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- The text for the home page was copied from the https://en.wikipedia.org/wiki/The_Chainsmokers and https://www.jonasblue.com/about/
+- The text for the guys page Alex pall section was copied from https://www.thechainsmokers.com/alex-pall
+- The text for the guys page Drew Taggart section was copied from https://www.thechainsmokers.com/drew-taggart
 
 
 ### Media
@@ -112,7 +112,7 @@ https://images.genius.com/c68b35253766908063c6ea38f457974d.1000x1000x1.jpg
  
  
 - The-Chainsmokers-Paris-Cover.jpg
-data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEBUQEhIVFhAVFQ8PEBAVFRAQFRAPFRUWFhUVFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGBAQGi0fHSYtNTUwLS0tLS0tLS0rLS8xLy0tLTAtLS0tLS0rLS0rLSstLS0rLS0tLS0rLS0tLS0tLf/AABEIAOEA4QMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAACAwABBAUGB//EAEUQA
+https://fanburst.com/onslot/the-chainsmokers-paris-onslot-remix
   
  
 - The-Chainsmokers-Closer-Cover.jpg
@@ -132,12 +132,15 @@ https://www.caracoltv.com/sites/default/files/styles/large_970x510/public/chain.
 https://storage.journaldemontreal.com/v1/dynamic_resize/sws_path/jdx-prod-images/4720cc99-184f-4718-850c-0a7ff0ade449_JDX-2x1_WEB.jpg?quality=80&size=1200x&version=1
 
 - background.jpg
-http://ognature.com/wp-content/uploads/2017/05/beach-clouds-ocean-sunset-purple-sand-bali-wave-sky-dreamland-indonesia-water-nice-desktop-wallpaper.jpg
- 
+http://ognature.com/wp-content/uploads/2017/05/beach-clouds-ocean-sunset-purple-sand-bali-wave-sky-dreamland-indonesia-water-nice-desktop-wallpaper.jpg 
  
 - logo.png
 https://www.thechainsmokers.com/images/tcs-logo.png
-  
+
+- icon.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/The_Chainsmokers_Logo_2018.png/200px-The_Chainsmokers_Logo_2018.png
+ 
+The audio and video files were obtained.......   
 
 ### Acknowledgements
 I received inspiration for this project from a music video from The Chainsmokers called 'The Chainsmokers Paris ft. Emily Warren'.
