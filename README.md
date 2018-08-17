@@ -77,7 +77,7 @@ My project is completely responsive to all screen sizes. On the "listen" page th
 
 I have pushed the code to a remote repository in GitHub where I have published the site on GitHub Pages. 
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+Here is the link: https://dan360z.github.io/User-Centric-Front-End-Milestone-Project/
 
 
 ## Credits
