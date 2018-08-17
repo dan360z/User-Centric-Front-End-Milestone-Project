@@ -1,4 +1,4 @@
-## Credits
+## Credits Continued
 
 ### Content
 - The text for the home page was copied from the https://en.wikipedia.org/wiki/The_Chainsmokers and https://www.jonasblue.com/about/
