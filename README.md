@@ -1,4 +1,4 @@
-# User Centric Front end Milestone Project
+# User Centric Front End Milestone Project
 
 Welcome to my first front end project, for this project i made a website for the Dj duo called The Chainsmokers to showcase their music, themselves and publicise their availability to perform at events.
 
@@ -139,8 +139,7 @@ https://www.thechainsmokers.com/images/tcs-logo.png
 
 - icon.png
 https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/The_Chainsmokers_Logo_2018.png/200px-The_Chainsmokers_Logo_2018.png
- 
-The audio and video files were obtained.......   
+
 
 ### Acknowledgements
 I received inspiration for this project from a music video from The Chainsmokers called 'The Chainsmokers Paris ft. Emily Warren'.
