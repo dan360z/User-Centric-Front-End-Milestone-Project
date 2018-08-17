@@ -12,10 +12,11 @@ and the opportunity to book the duo to perform at events such as weddings and ch
 
 ## User Stories
 
-- As a fan/potential fan, I want to have the ablity to play audio files from the website, so that I can listen to the duo's music.
-- As a fan/potential fan, I want to have the ablity to play video files from the website, so that I can watch to the duo's music videos.
+- As a fan/potential fan, I want to have the ablity to play audio from the website, so that I can listen to the duo's music.
+- As a fan/potential fan, I want to have the ablity to play video from the website, so that I can watch to the duo's music videos.
 - As a fan/potential fan, I want to be notified when new material becomes available, so that I can check out the new material out when it is released.
 
+## Wireframes
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
 ## Features
@@ -44,7 +45,7 @@ This section is also where you would share links to any wireframes, mockups, dia
 - [Popper js](https://popper.js.org/)
     - The project uses **Bootstrap js** for the responsive navigation bar at the top of the page.
 - [Bootstrap css](https://getbootstrap.com/)
-    - The project uses **Bootstrap css** for the bootstrap grid system, forms and image carousel.
+    - The project uses **Bootstrap css** for the bootstrap grid system, forms, navigation bar and image carousel.
 
 ## Testing
 
@@ -90,7 +91,7 @@ Designed and Developed by Daniel Field.
 
 
 ### Media
-The photos used in this site were obtained from ...
+The photos used in this site were obtained from
 
 - event_image4.jpg
 https://aestheticmag.files.wordpress.com/2016/08/the-chainsmokers-14-of-29-copy.jpg?w=750
@@ -111,8 +112,8 @@ http://www.thewiltern.net/wp-content/uploads/2018/05/event_image.jpg
 https://images.genius.com/c68b35253766908063c6ea38f457974d.1000x1000x1.jpg
  
  
-- The-Chainsmokers-Paris-Cover.jpg
-https://fanburst.com/onslot/the-chainsmokers-paris-onslot-remix
+- The-Chainsmokers-Paris-Cover.png
+https://upload.wikimedia.org/wikipedia/en/e/e8/Paris_%28Official_Single_Cover%29_by_The_Chainsmokers.png
   
  
 - The-Chainsmokers-Closer-Cover.jpg
@@ -132,14 +133,25 @@ https://www.caracoltv.com/sites/default/files/styles/large_970x510/public/chain.
 https://storage.journaldemontreal.com/v1/dynamic_resize/sws_path/jdx-prod-images/4720cc99-184f-4718-850c-0a7ff0ade449_JDX-2x1_WEB.jpg?quality=80&size=1200x&version=1
 
 - background.jpg
-http://ognature.com/wp-content/uploads/2017/05/beach-clouds-ocean-sunset-purple-sand-bali-wave-sky-dreamland-indonesia-water-nice-desktop-wallpaper.jpg 
+http://ognature.com/wave-sunset-bali-beach-indonesia-clouds-water-purple-sand-dreamland-ocean-sky-wallpaper-high-definition/purple-ocean-sand-wave-sunset-sky-bali-water-clouds-indonesia-beach-dreamland-wallpaper-sunrise/
  
 - logo.png
 https://www.thechainsmokers.com/images/tcs-logo.png
 
 - icon.png
-https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/The_Chainsmokers_Logo_2018.png/200px-The_Chainsmokers_Logo_2018.png
+https://en.wikipedia.org/wiki/The_Chainsmokers#/media/File:The_Chainsmokers_Logo_2018.png
 
+The audio in the site is embedded audio from 
+
+https://www.spotify.com/uk/
+
+The video in this  site is embedded video from
+
+https://www.youtube.com/watch?v=Wo1YK4Z0BZs
+
+https://www.youtube.com/watch?v=PT2_F-1esPk
+
+https://www.youtube.com/watch?v=RhU9MZ98jxo
 
 ### Acknowledgements
 I received inspiration for this project from a music video from The Chainsmokers called 'The Chainsmokers Paris ft. Emily Warren'.

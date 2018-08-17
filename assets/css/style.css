@@ -120,6 +120,7 @@ h3{
 
 .player {
     margin: 0 10px;
+    width: 50%;
 }
 
 .track-cover-opposite {
@@ -137,6 +138,7 @@ h3{
 
 .player-opposite {
     margin: 0 10px;
+    width: 50%;
     float: right;
 }
 
