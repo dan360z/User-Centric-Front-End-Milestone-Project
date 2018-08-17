@@ -1,10 +1,10 @@
 # User Centric Front End Milestone Project
 
-Welcome to my first front end project, for this project i made a website for the Dj duo called The Chainsmokers to showcase their music, themselves and publicise their availability to perform at events.
+Welcome to my first front end project, for this project I made a website for the Dj duo called The Chainsmokers to showcase their music, themselves and publicise their availability to perform at events.
 
 ## UX
 
-The website will be used by fans and potential fans who wish to  learn more about the dj duo, see and hear video and audio clips of their music and 
+The website will be used by fans and potential fans who wish to learn more about the Dj duo, see and hear video and audio clips of their music and 
 any new material as it becomes available.
 
 My project will provide fans and potential fans with information about The Chainsmokers, audio and video clips of their music
@@ -21,20 +21,20 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 ## Features
 
-- The "Home" page. This is a webpage welcoming users to the website and giving a short description about the Dj duo with a link to "The guys" page to learn more about each member of The Chainsmokers.
+- The "Home" page. This is a web page welcoming users to the website and giving a short description about the Dj duo with a link to "The guys" page to learn more about each member of The Chainsmokers.
 - "We're The Chainsmokers" section. This is a section of the "Home" page that provides a video introducing the Dj duo.
-- "The guys" page. This is a webpage showcasing both of the Djs and providing a short bio about each of the members.
+- "The Guys" page. This is a web page showcasing both of the Djs and providing a short bio about each of the members.
 - "Featured video" section. This is a section of "the guys" page to showcase one of their music videos and includes a link to the "listen" page to see more of their music.
-- The "Listen" page. This is a webpage providing audio and video clips showcasing the Dj duo's music.
+- The "Listen" page. This is a web page providing audio and video clips showcasing the Dj duo's music.
 - The available for hire advert. This is a section of the "listen" page which informs the user that the duo are available for hire to perform at events and includes a link to the "Book" to make a booking or enquiry.
-- The "Book" page. This is a webpage where the user can book the duo to perform at events such as weddings, christmas parties, etc.
+- The "Book" page. This is a we bpage where the user can book the duo to perform at events such as weddings, christmas parties, etc.
 - The image carousel. This is a section of the "book" page where users can view pictures from events that the duo have previously performed at. 
 - The mailing list sign up section. This is a section that is consistent across all of the pages, this section gives the user the opportunity to sign up for email notifications so they can be notified when new material becomes available.
 - The music app links section. This is a section that is consistent across all of the pages, this section gives the user the opportunity to check out "The Chainsmokers" music on other music websites. 
 
 ### Features Left to Implement
 
-- "Watch" page. A webpage specifically for the duo's music videos.
+- "Watch" page. A web page specifically for the duo's music videos.
 
 ## Technologies Used
 
@@ -65,17 +65,17 @@ I have tested the website extensively on all screen sizes. All the audio and vid
 
 3. Audio files:
     1. Go to the "Listen" page
-    2. Click on the play button and the audio files play.
+    2. Click on the play button and verify that the audio files play.
 
 4. Video files:
     1. Go to the "home" page, "The Guys" page and the "listen" page
-    2. Click on the play button and the video files play.
+    2. Click on the play button and verify that the video files play.
 
 My project is completely responsive to all screen sizes. On the "listen" page the audio players are placed underneath an image of the single cover with the track title, for desktop screens these are aligned to the left whilst on mobile screens every other one is aligned to the right creating a pattern.  
 
 ## Deployment
 
-I have pushed the repository to GitHub where i have published the site on GitHub Pages. 
+I have pushed the code to a remote repository in GitHub where I have published the site on GitHub Pages. 
 
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
