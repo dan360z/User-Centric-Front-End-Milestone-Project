@@ -80,7 +80,7 @@ I have pushed the code to a remote repository in GitHub where I have published t
 Here is the link: https://dan360z.github.io/User-Centric-Front-End-Milestone-Project/
 
 
-## Credits
+## Credits Continued
 
 Designed and Developed by Daniel Field.
 
