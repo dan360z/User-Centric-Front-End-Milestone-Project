@@ -84,7 +84,7 @@ Here is the link: https://dan360z.github.io/User-Centric-Front-End-Milestone-Pro
 
 Designed and Developed by Daniel Field.
 
-[Credits Continued](url=credits.md)
+[Credits Continued...](https://github.com/dan360z/User-Centric-Front-End-Milestone-Project/blob/master/credits.md)
 
 ### Acknowledgements
 I received inspiration for this project from a music video from The Chainsmokers called 'The Chainsmokers Paris ft. Emily Warren'.
