@@ -17,8 +17,10 @@ and the opportunity to book the duo to perform at events such as weddings and ch
 - As a fan/potential fan, I want to be notified when new material becomes available, so that I can check out the new material out when it is released.
 
 ## Wireframes
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
-[Mobile Wireframes](assets/wireframes/mobile-wireframes.jpg) 
+
+- [Mobile Wireframes](assets/wireframes/mobile-wireframes.jpg)
+- [Desktop Wireframes 1](assets/wireframes/desktop-wireframes.jpg) 
+- [Desktop Wireframes 2](assets/wireframes/desktop-wireframes-2.jpg) 
 
 ## Features
 
