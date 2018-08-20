@@ -18,6 +18,7 @@ and the opportunity to book the duo to perform at events such as weddings and ch
 
 ## Wireframes
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+[Mobile Wireframes](assets/wireframes/mobile-wireframes.jpg) 
 
 ## Features
 
